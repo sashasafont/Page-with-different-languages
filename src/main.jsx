@@ -9,6 +9,8 @@ import { I18nRouterProvider } from "./context/I18nRouterContext.jsx";
 
 import Home from "./pages/Home.jsx";
 import About from "./pages/About.jsx";
+import Contact from "./pages/Contact.jsx";
+import Experience from "./components/Experience.jsx";
 
 const router = createBrowserRouter([
   {
@@ -23,6 +25,7 @@ const router = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       { path: "about", element: <About /> },
+      { path: "contact", element: <Contact /> }
     ],
   },
 ]);

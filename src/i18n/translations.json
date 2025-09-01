@@ -1,38 +1,122 @@
 {
   "es": {
-    "nav": { "home": "Inicio", "about": "Acerca" },
+    "nav": {
+      "home": "Inicio",
+      "about": "Acerca",
+      "contact": "Contacto"
+    },
+    "contactContent": "Puedes contactarnos a través de info@gmail.com o llamando al 123-456-7890.",
     "greeting": "Hola 👋",
     "language": "Idioma",
     "themeLight": "Cambiar a Claro",
     "themeDark": "Cambiar a Oscuro",
-    "home": { "title": "Página de inicio", "content": "Esta es la versión en español." },
-    "about": { "title": "Acerca de", "content": "Información de la app (ES)." }
+    "home": {
+      "title": "Página de inicio",
+      "content": "Esta es la versión en español."
+    },
+    "about": {
+      "title": "Acerca de",
+      "content": "Información de la app (ES)."
+    }
   },
   "en": {
-    "nav": { "home": "Home", "about": "About" },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "contactContent": "You can contact us via info@gmail.com or call us at 123-456-7890.",
     "greeting": "Hello 👋",
     "language": "Language",
     "themeLight": "Switch to Light",
     "themeDark": "Switch to Dark",
-    "home": { "title": "Home Page", "content": "This is the English version." },
-    "about": { "title": "About", "content": "App information (EN)." }
+    "home": {
+      "title": "Home Page",
+      "content": "This is the English version."
+    },
+    "about": {
+      "title": "About",
+      "content": "App information (EN)."
+    }
   },
   "fr": {
-    "nav": { "home": "Accueil", "about": "À propos" },
+    "nav": {
+      "home": "Accueil",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "contactContent": "Vous pouvez nous contacter à info@gmail.com ou appeler le 123-456-7890.",
     "greeting": "Bonjour 👋",
     "language": "Langue",
     "themeLight": "Passer en clair",
     "themeDark": "Passer en sombre",
-    "home": { "title": "Page d’accueil", "content": "Ceci est la version française." },
-    "about": { "title": "À propos", "content": "Infos de l’app (FR)." }
+    "home": {
+      "title": "Page d’accueil",
+      "content": "Ceci est la version française."
+    },
+    "about": {
+      "title": "À propos",
+      "content": "Infos de l’app (FR)."
+    }
   },
+  "ru": {
+    "nav": {
+      "home": "Начало",
+      "about": "О нас",
+      "contact": "Контакты"
+    },
+    "contactContent": "Вы можете связаться с нами по адресу info@gmail.com или позвонить по телефону 123-456-7890.",
+    "greeting": "Здравствуйте 👋",
+    "language": "Язык",
+    "themeLight": "Изменить на светлую тему",
+    "themeDark": "Изменить на темную тему",
+    "home": {
+      "title": "Начальная страничка",
+      "content": "Это версия на русском языке."
+    },
+    "about": {
+      "title": "О нас",
+      "content": "Информация о приложении (РУС)"
+    }
+  },
+  "uk": {
+      "nav": {
+        "home": "Головна",
+        "about": "Про нас",
+        "contact": "Контакти"
+      },
+      "contactContent": "Ви можете зв’язатися з нами за адресою info@gmail.com або зателефонувати за номером 123-456-7890.",
+      "greeting": "Вітаємо 👋",
+      "language": "Мова",
+      "themeLight": "Змінити на світлу тему",
+      "themeDark": "Змінити на темну тему",
+      "home": {
+        "title": "Домашня сторінка",
+        "content": "Це версія українською мовою."
+      },
+      "about": {
+        "title": "Про нас",
+        "content": "Інформація про застосунок (УКР)"
+      }
+    },
   "de": {
-    "nav": { "home": "Start", "about": "Über" },
+    "nav": {
+      "home": "Start",
+      "about": "Über",
+      "contact": "Kontaks"
+    },
+    "contactContent": "Sie können uns unter info@gmail.com kontaktieren oder uns unter 123-456-7890 anrufen.",
     "greeting": "Hallo 👋",
     "language": "Sprache",
     "themeLight": "Wechsel zu Hell",
     "themeDark": "Wechsel zu Dunkel",
-    "home": { "title": "Startseite", "content": "Das ist die deutsche Version." },
-    "about": { "title": "Über", "content": "App-Informationen (DE)." }
+    "home": {
+      "title": "Startseite",
+      "content": "Das ist die deutsche Version."
+    },
+    "about": {
+      "title": "Über",
+      "content": "App-Informationen (DE)."
+    }
   }
 }

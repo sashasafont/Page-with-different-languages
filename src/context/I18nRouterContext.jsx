@@ -5,7 +5,7 @@ import translations from "../i18n/translations.json";
 const I18nRouterContext = createContext(null);
 export const useI18n = () => useContext(I18nRouterContext);
 
-const supportedLangs = ["es", "en", "fr", "de"];
+const supportedLangs = ["es", "en", "fr", "ru", "uk", "de"];
 const DEFAULT_LANG = "en";
 
 function detectBrowserLang() {

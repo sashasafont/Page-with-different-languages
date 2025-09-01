@@ -4,6 +4,7 @@ import { useTheme } from "./context/ThemeContext.jsx";
 import { useI18n } from "./context/I18nRouterContext.jsx";
 import LanguageSwitcher from "./components/LanguageSwitcher.jsx";
 import Nav from "./components/Nav.jsx";
+import Footer from "./components/Footer.jsx";
 
 export default function App() {
   const { theme, toggleTheme } = useTheme();
@@ -27,6 +28,7 @@ export default function App() {
 
       <Nav />
       <Outlet />
+      <Footer />
     </div>
   );
 }
