@@ -1,0 +1,38 @@
+{
+  "es": {
+    "nav": { "home": "Inicio", "about": "Acerca" },
+    "greeting": "Hola 👋",
+    "language": "Idioma",
+    "themeLight": "Cambiar a Claro",
+    "themeDark": "Cambiar a Oscuro",
+    "home": { "title": "Página de inicio", "content": "Esta es la versión en español." },
+    "about": { "title": "Acerca de", "content": "Información de la app (ES)." }
+  },
+  "en": {
+    "nav": { "home": "Home", "about": "About" },
+    "greeting": "Hello 👋",
+    "language": "Language",
+    "themeLight": "Switch to Light",
+    "themeDark": "Switch to Dark",
+    "home": { "title": "Home Page", "content": "This is the English version." },
+    "about": { "title": "About", "content": "App information (EN)." }
+  },
+  "fr": {
+    "nav": { "home": "Accueil", "about": "À propos" },
+    "greeting": "Bonjour 👋",
+    "language": "Langue",
+    "themeLight": "Passer en clair",
+    "themeDark": "Passer en sombre",
+    "home": { "title": "Page d’accueil", "content": "Ceci est la version française." },
+    "about": { "title": "À propos", "content": "Infos de l’app (FR)." }
+  },
+  "de": {
+    "nav": { "home": "Start", "about": "Über" },
+    "greeting": "Hallo 👋",
+    "language": "Sprache",
+    "themeLight": "Wechsel zu Hell",
+    "themeDark": "Wechsel zu Dunkel",
+    "home": { "title": "Startseite", "content": "Das ist die deutsche Version." },
+    "about": { "title": "Über", "content": "App-Informationen (DE)." }
+  }
+}
